@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="322" viewBox="0 0 950 322" role="img" aria-label="Developer profile terminal card">
+<style>
+.bg{fill:#0d1117}.t{fill:#c9d1d9;font:19px 'Courier New',monospace}.g{fill:#74e3a2}.b{fill:#83bfff}.dim{fill:#93a6a5}.line{opacity:0;animation:appear .55s ease forwards}@keyframes appear{to{opacity:1}}@media(prefers-reduced-motion:reduce){.line{opacity:1;animation:none}}
+</style>
+<rect class="bg" width="950" height="322" rx="20"/><rect x="13" y="13" width="924" height="296" rx="14" fill="#101b1a" stroke="#2d5444"/>
+<circle cx="39" cy="37" r="6" fill="#ff6b6b"/><circle cx="59" cy="37" r="6" fill="#ffd166"/><circle cx="79" cy="37" r="6" fill="#71df9a"/>
+<text class="t dim" x="102" y="44" font-size="16">neeraj@github: ~/about-me</text>
+<text class="t line" style="animation-delay:.1s" x="35" y="95"><tspan class="g">$</tspan> whoami</text>
+<text class="t line" style="animation-delay:.5s" x="35" y="132"><tspan class="b">name       </tspan> Neeraj Desai</text>
+<text class="t line" style="animation-delay:.9s" x="35" y="167"><tspan class="b">focus      </tspan> Product Engineering | AI | Automation</text>
+<text class="t line" style="animation-delay:1.3s" x="35" y="202"><tspan class="b">building   </tspan> Billing Software · WA CRM · VCards</text>
+<text class="t line" style="animation-delay:1.7s" x="35" y="237"><tspan class="b">approach   </tspan> Useful software, thoughtful design</text>
+<text class="t line" style="animation-delay:2.1s" x="35" y="279"><tspan class="g">$</tspan> ./build-the-next-thing <tspan class="g">✓</tspan></text>
+</svg>
