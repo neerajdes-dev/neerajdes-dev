@@ -46,12 +46,12 @@ I build and explore business software, digital customer experiences and AI-assis
 
 <div align="center">
 
-### `$ echo "Think out of Box"`
+### `"Think out of Box"`
 
 **Create useful things. Keep learning. Keep improving.**
 
 [Explore all repositories](https://github.com/neerajdes-dev?tab=repositories)
 
-<sub>Resolvent-inspired styling. The official Resolvent logo is not modified or approximated.</sub>
+
 
 </div>
